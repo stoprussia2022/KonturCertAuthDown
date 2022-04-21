@@ -1,2 +1,2 @@
-dotnet run 1000
+dotnet run 250
 pause
